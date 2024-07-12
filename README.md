@@ -1,4 +1,5 @@
 # VBA-Challenge
 Module 2 Challenge
 
-I am skipping this assignment until the end of the course so that I can get tutoring on VBA scripting and get a better understanding.
+I used chatGPT to help me get the data on the same worksheet rather than put it all on a separate one. The code file is named stock_code.py located in the main branch of this repo
+
