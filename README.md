@@ -84,8 +84,9 @@
 ## Author
 
 **[Kendall Burkett]**  
-[https://github.com/KendallBurkett?tab=repositories]
-[kbz1987@icloud.com]
+https://github.com/KendallBurkett?tab=repositories
+
+kbz1987@icloud.com
 
 ## Additional Notes
 
