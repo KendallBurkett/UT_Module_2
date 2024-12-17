@@ -86,9 +86,9 @@
 
 ## Author
 
-**[Your Name]**  
-[Your GitHub Profile](https://github.com/yourusername)  
-[Your Email](mailto:youremail@example.com)
+**[Kendall Burkett]**  
+[https://github.com/KendallBurkett?tab=repositories](https://github.com/yourusername)  
+[kbz1987@icloud.com](mailto:youremail@example.com)
 
 ## License
 
