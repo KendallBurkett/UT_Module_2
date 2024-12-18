@@ -1,4 +1,6 @@
-# VBA-Challenge
+## VBA-Scripting
+---
+
 # Quarterly Stock Data Summary
 
 ## Table of Contents
@@ -7,11 +9,14 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Example](#example)
-- [Author](#author)
+
+---
 
 ## Description
 
 **Quarterly Stock Data Summary** is an Excel VBA macro designed to analyze and summarize stock performance data across multiple quarterly worksheets. This tool automates the process of calculating key metrics such as quarterly change, percentage change, and total volume for each stock ticker. Additionally, it identifies the tickers with the greatest percentage increase, decrease, and total volume, providing a comprehensive overview of stock performance for each quarter.
+
+---
 
 ## Features
 
@@ -20,6 +25,8 @@
 - **Highlighting Changes:** Applies color coding to indicate positive (light green) and negative (light red) changes in quarterly performance.
 - **Top Performers Identification:** Identifies and displays the tickers with the greatest percentage increase, decrease, and total volume.
 - **Performance Optimization:** Disables screen updating and automatic calculations during execution to enhance performance.
+
+---
 
 ## Installation
 
@@ -39,6 +46,8 @@
 
 ## Usage
 
+---
+
 1. **Prepare Your Data:**
    - Ensure each quarterly worksheet is named with a "Q" prefix (e.g., Q1, Q2, Q3, Q4).
    - Organize your data with the following columns:
@@ -56,6 +65,8 @@
 3. **Review the Summary:**
    - The macro will add a summary section to each quarterly worksheet, displaying calculated metrics and highlighting significant changes.
    - It will also identify the tickers with the greatest percentage increase, decrease, and total volume.
+
+   ---
 
 ## Example
 
@@ -81,12 +92,7 @@
 
 *Positive quarterly changes are highlighted in light green, while negative changes are highlighted in light red.*
 
-## Author
-
-**[Kendall Burkett]**  
-https://github.com/KendallBurkett?tab=repositories
-
-kbz1987@icloud.com
+---
 
 ## Additional Notes
 
