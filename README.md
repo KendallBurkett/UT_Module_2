@@ -1,6 +1,5 @@
 ## VBA-Scripting
 ---
-
 # Quarterly Stock Data Summary
 
 ## Table of Contents
